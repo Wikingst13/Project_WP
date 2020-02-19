@@ -55,7 +55,7 @@ services:
      volumes:
        - certbot-etc:/etc/letsencrypt
        - wordpress:/var/www/html
-     command: certonly --webroot --webroot-path=/var/www/html --email sammy@example.com --agree-tos --no-eff-email --staging -d ec2-35-158-2-219.eu-central-1.compute.amazonaws.com -d www.ec2-35-158-2-219.eu-central-1.compute.amazonaws.com
+     command: certonly --webroot --webroot-path=/var/www/html --email stason131289@tut,by --agree-tos --no-eff-email --staging -d ec2-18-184-17-62.eu-central-1.compute.amazonaws.com -d www.ec2-18-184-17-62.eu-central-1.compute.amazonaws.com
 
 volumes:
     certbot-etc:
