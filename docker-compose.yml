@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 
 services:
   db:
@@ -58,9 +58,9 @@ services:
      command: certonly --webroot --webroot-path=/var/www/html --email stason131289@tut.by --agree-tos --no-eff-email --staging -d ec2-18-184-17-62.eu-central-1.compute.amazonaws.com -d www.ec2-18-184-17-62.eu-central-1.compute.amazonaws.com
 
 volumes:
-    certbot-etc:
-    wordpress:
-    dbdata:
+  certbot-etc:
+  wordpress:
+  dbdata:
 
 networks:
   app-network:
