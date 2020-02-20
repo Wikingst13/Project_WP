@@ -12,7 +12,8 @@
 * [Project's repository](https://github.com/Wikingst13/Project_WP.git)
 
 ## Pipeline HLD
-** Scheme 
+*Scheme*
+
 ![alt text](https://github.com/Wikingst13/Project_WP/blob/master/Wordpress.jpg)
 
 ## Technologies which were used in project
