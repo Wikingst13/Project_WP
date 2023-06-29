@@ -6,7 +6,7 @@
 
 ## Description of application for deployment
 
-* Wordpress
+* Wordpress v.1
 * php language
 * MySQL
 * [Project's repository](https://github.com/Wikingst13/Project_WP.git)
